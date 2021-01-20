@@ -6,20 +6,20 @@ Create in order to fullfil the Human-Computer Interractions Course in Batam Poly
 
 These are the members of this project's group :
 
-1. Name  : Kevin Timoteus Sirait (github.com/HadesShade)
-   NIM   : 3311901049
+1. Name  : Kevin Timoteus Sirait (github.com/HadesShade) <br>
+   NIM   : 3311901049 <br>
    Class : IF 3B Regular Class
 
-2. Name  : Yulia Wulandari
-   NIM   : 3311901044
+2. Name  : Yulia Wulandari (github.com/wlndrya) <br>
+   NIM   : 3311901044 <br>
    Class : IF 3B Regular Class
 
-3. Name  : Kezia Angelina Sinaga
-   NIM   : 3311901045
+3. Name  : Kezia Angelina Sinaga (github.com/keziasinaga28) <br>
+   NIM   : 3311901045 <br>
    Class : IF 3B Regular Class
 
 
-Our Best Regards for Ms. Rina Yulius as our  lecturer of Human-Computer Interractions Course in Batam Polytechnic.
+Our Best Regards for Ms. Rina Yulius as our lecturer of Human-Computer Interractions Course in Batam Polytechnic.
 
 
 Made with 💖 by us.
